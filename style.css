@@ -1,0 +1,48 @@
+body{
+    background-color: #dce6e8;
+    color: #726961;
+    text-align: center;    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.main{
+    padding-top: 3em;
+    position: relative;
+}
+
+
+.content{
+    background-color: #ece4dd;
+    width: auto;
+    border: dotted;
+    border-color: ece4dd;
+    display:inline-flex;
+}
+
+
+header{
+}
+
+
+h1{
+    color:#726961;
+}
+
+
+p{
+    padding-left: .5em;
+}
+
+
+#bio{
+    background-color: #e8d4cf;
+    margin:0;
+    padding-top: 2.2em;
+    
+}
+
+#intro{
+    padding-top: 2.2em;
+    padding-bottom: 1em;
+}
